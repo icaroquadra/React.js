@@ -1,0 +1,16 @@
+{
+  "name": "modulo-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "nodemon firstStepsIndex.js",
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
